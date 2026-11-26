@@ -27,6 +27,14 @@ I live in Portugal, near the Atlantic Ocean. I love running, reading fiction, dr
 - Use data storytelling to communicate findings through clear visuals and presentations to product teams and stakeholders
 - Translate findings into product hypotheses and actionable recommendations
 
+## 📁 Portfolio projects
+
+| Project | Focus | Tools | Links |
+|---|---|---|---|
+| Payment flow prototype analysis | Real prototype research: two payment-offer flows compared on noticeability, comprehension, and stated intent; product recommendation for a future A/B test | Python, pandas, statsmodels, SciPy, Jupyter | [Repository](https://github.com/elena-kolo/payment-flow-experimentation-analysis) · [Report (PDF)](https://github.com/elena-kolo/payment-flow-experimentation-analysis/blob/main/reports/Payment_flow_prototype_analysis_Report.pdf) |
+| A/B test design and synthetic experiment | Production A/B test plan, power and sample size, analysis on clearly labeled synthetic data | Python, statsmodels | In progress |
+> **Portfolio in progress.** The first project is complete. More projects are being added, including a production-style A/B test design with synthetic data. Check back soon.
+
 ## 🌍 Industry experience
 
 - FinTech: payments, investments, cryptocurrencies, and trading
