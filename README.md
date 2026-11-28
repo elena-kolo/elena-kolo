@@ -1,55 +1,38 @@
 
+## Hi, I'm Elena 👋
 
-## Hello, I'm Elena! 
+**Consumer & Product Analyst** with 8+ years across high-scale digital ecosystems (~89M MAU) and fast-growing FinTech platforms.
+Strong foundation in quantitative behavioral research, survey methodology, and applied statistics (MA Sociology, The University of Manchester, Distinction), scaled with modern analytical stack (SQL, Python).
 
-I started my career as a marketing and product researcher. I have always leaned towards quantitative studies, gradually gaining more and more experience in data analysis focused on consumer behaviour and user experience.
+Specialized in multi-source data triangulation: combining product data, surveys, and external research to cross-check findings, isolate friction, optimize funnels, and inform roadmap decisions.
 
-My background in sociology drives me to look beyond the raw numbers and understand the human perceptions, drivers, and barriers behind them.
+## Selected Impact:
+- EMCD (FinTech): Engineered a multi-criteria market expansion scoring model across 27 countries, prioritizing top-5 entry markets; identified a 26% discoverability gap in crypto lending to streamline onboarding.
+- Noda (Open Banking): Evaluated traffic-to-payment conversion across 38M merchant visits and 2.8M transactions in 26 EU markets, building a prioritization model for local payment methods (e.g. MB Way, Bizum).
+- Yandex (Tech Ecosystems, ~89M MAU): Delivered consumer analytics and behavioral research projects across 40+ digital services; designed metric logic for 14 BI dashboards; modeled pricing elasticity that helped exceed sales targets by 31%.
 
-I am deeply passionate about connecting the dots between what people say and what they actually do, and uncovering the irrational and cultural aspects of people's behaviour.
+## Core Competencies:
+- Analytics & Modeling: Quantitative Behavioral Analysis, Funnel & Cohort Diagnostics, Pricing Elasticity (Van Westendorp, Gabor-Granger), Feature Prioritization (Kano, TURF), Multi-Criteria Scoring Models, Applied Statistics & Hypothesis Testing, Prototype Split-Testing, Data Storytelling
+- Technical Stack: SQL, Python (pandas, NumPy, statsmodels, SciPy), Git / GitHub, Advanced Excel, Metric Architecture & BI Dashboarding (Superset, DataLens), Survey tools (SurveyMonkey, Typeform, QuestionPro)
 
-I live in Portugal, near the Atlantic Ocean. I love running, reading fiction, drawing, spending time in my garden, and being with my cats.
-
-## 🛠️  Tools
-
-- Analytical tools: SQL · Python (pandas, NumPy) · SPSS · Advanced Excel · Git · DataLens · DataTile
-- Survey tools: SurveyMonkey, Typeform, QuestionPro.
-
-## 🤘 What I do
-
-- Analyse customer behaviour and payment-related problems to identify opportunities for product improvement
-- Use SQL and Python to explore data and answer business and product questions
-- Build dashboards to visualise key metrics and track performance
-- Combine customer research, business data, and external sources to understand product performance
-- Apply statistics and hypothesis testing to evaluate differences and test assumptions
-- Build scoring models to support product and market prioritisation
-- Analyse pricing, customer satisfaction, and consumer preferences
-- Use data storytelling to communicate findings through clear visuals and presentations to product teams and stakeholders
-- Translate findings into product hypotheses and actionable recommendations
-
-## 📁 Portfolio projects
-
-| Project | Focus | Tools | Links |
-|---|---|---|---|
-| Payment flow prototype analysis | Real prototype research: two payment-offer flows compared on noticeability, comprehension, and stated intent; product recommendation for a future A/B test | Python, pandas, statsmodels, SciPy, Jupyter | [Repository](https://github.com/elena-kolo/payment-flow-experimentation-analysis) · [Report (PDF)](https://github.com/elena-kolo/payment-flow-experimentation-analysis/blob/main/reports/Payment_flow_prototype_analysis_Report.pdf) |
-| A/B test design and synthetic experiment | Production A/B test plan, power and sample size, analysis on clearly labeled synthetic data | Python, statsmodels | In progress |
-> **Portfolio in progress.** The first project is complete. More projects are being added, including a production-style A/B test design with synthetic data. Check back soon.
-
-## 🌍 Industry experience
-
-- FinTech: payments, investments, cryptocurrencies, and trading
-- Tech: internet search, browsers, smart speakers, and streaming platforms
+## Industry Experience:
+- FinTech: open banking payments, investments, cryptocurrencies, and trading
+- Consumer Tech: internet search, browsers, smart speakers, and streaming platforms
 - Other: FMCG, beauty, and pharma
 
-## 🗣️ Languages
+## Location & Work Format:
+- Based in Lisbon, Portugal (UTC+0/UTC+1)
+- Open to Hybrid in Lisbon & Remote across EU/UK (Full-time / B2B)
 
+## Languages
 English (C1, IELTS certified) · Portuguese (A2–B1) · Russian (native)
 
-## 📍 Location & work eligibility
+## Portfolio projects
 
-Based in Lisbon, Portugal (UTC+0 / UTC+1). Fully authorized for EU employment. Available for remote employment and B2B contracts with companies across the EU, UK, and globally.
+| Project | Focus | Skills demonstrated | Tools | Links |
+|---|---|---|---|---|
+| Payment flow prototype analysis | Real prototype research: two payment-offer flows compared on noticeability, comprehension, and stated intent; product recommendation for a future A/B test | Quantitative Behavioral Analysis · Prototype Split-Testing · Applied Statistics & Hypothesis Testing · Data Storytelling | Python (pandas, SciPy, statsmodels), Jupyter | [Repository](https://github.com/elena-kolo/payment-flow-experimentation-analysis) · [Report (PDF)](https://github.com/elena-kolo/payment-flow-experimentation-analysis/blob/main/reports/Payment_flow_prototype_analysis_Report.pdf) |
+| A/B test design and synthetic experiment | Production A/B test plan, power and sample size, analysis on clearly labeled synthetic data | *Planned:* Applied Statistics & Hypothesis Testing · Data Storytelling | Python (statsmodels) | In progress |
 
-## 📫 Get in touch
+> **Portfolio in progress.** The first project is complete. More projects are being added, including a production-style A/B test design with synthetic data. Check back soon.
 
-- LinkedIn: www.linkedin.com/in/elena-kolo 
-- Email: elena.kolo.pro@gmail.com
