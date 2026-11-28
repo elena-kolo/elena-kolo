@@ -27,7 +27,7 @@ Specialized in multi-source data triangulation: combining product data, surveys,
 ## Languages
 English (C1, IELTS certified) · Portuguese (A2–B1) · Russian (native)
 
-## Portfolio projects
+## Selected projects
 
 | Project | Focus | Skills demonstrated | Tools | Links |
 |---|---|---|---|---|
